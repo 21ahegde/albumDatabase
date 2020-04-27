@@ -1,0 +1,23 @@
+{
+  "name": "albumdatabase",
+  "version": "1.0.0",
+  "description": "albumdatabase ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21ahegde/albumDatabase.git"
+  },
+  "author": "Aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/21ahegde/albumDatabase/issues"
+  },
+  "homepage": "https://github.com/21ahegde/albumDatabase#readme",
+  "dependencies": {
+    "pg-promise": "^10.5.2",
+    "prompt-promise": "^1.0.3"
+  }
+}
