@@ -19,7 +19,6 @@ db.result("INSERT INTO album VALUES (artist_id, release_year, album_name) ")
     console.log(res);
 })
 .catch((e) => {"oops"}); 
-
 pgp.end 
 */
 
